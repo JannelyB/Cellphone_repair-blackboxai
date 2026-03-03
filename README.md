@@ -47,7 +47,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
       Clonar el repositorio:
       
       Bash
-      git clone https://github.com/JannelyB/Cellphone_repair-blackboxai.git
+      git clone https://github.com/JannelyB/Cellphone_repair.git
       Navegar al directorio:
       
       Bash
